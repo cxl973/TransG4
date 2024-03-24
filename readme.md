@@ -1,7 +1,7 @@
 # TransG4
 
 We resent TransG4, a tool for predicting the mismatch score of DNA or RSR-ratio of RNA. 
-<div align=center><img src="model.jpg" width=80% height=80%></div>
+<div align=center><img src="model.jpg" width=50% height=50%></div>
 
 
 ## Preparing the environment
