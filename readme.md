@@ -1,7 +1,8 @@
 # TransG4
 
 We resent TransG4, a tool for predicting the mismatch score of DNA or RSR-ratio of RNA. 
-<img src="model.jpg" width=0.8>
+
+<div align=center><img src="model.jpg" width=50% height=50%></div>
 
 ## Preparing the environment
 ```
@@ -22,3 +23,6 @@ cudnn 7.6.5
 
 * To run TransG4 on G4-seq data, you can run the train.ipynb notebook in the G4 folder. Before that, you need to prepare G4-seq file and human genome data file (hg19). `The G4-seq data` can be downloaded throught pred_data.sh, while `the hg19` is available on https://hgdownload.soe.ucsc.edu/downloads.html.
 * All data for rG4-seq can be found in /rG4/data. The result can be reproduced by running the train.ipynb file.
+
+#### website
+<div align=center><img src="website_.png" width=80% height=80%></div>
